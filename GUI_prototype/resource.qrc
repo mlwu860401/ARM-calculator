@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>image/Lengend.png</file>
+    </qresource>
+</RCC>
